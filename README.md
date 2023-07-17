@@ -21,7 +21,7 @@ $x^2 + y^2 = z^2$
 일반 **굵은글씨**
 이텔릭체 *이텔릭*
 ### 8. 이미지 넣기
-![여름](https://github.com/II-KJM-II/markdown20230717/blob/main/doc/abc.jpeg)
+![여름](https://github.com/II-KJM-II/markdown20230717/blob/main/abc.jpeg)
 ### 7. 하이퍼 링크
 [PCWK](https://cafe.daum.net/pcwk)
 ### 6. 가로선
